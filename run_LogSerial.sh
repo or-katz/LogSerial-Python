@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# add execution permission by:
-# $ chmod +x run_LogSerial.sh
 # use this script to run it automaticly from cron or run it with nohup:
 # $ crontab -e
 # insert the following line and adjust it to your needs (path, port, and baud rate):
